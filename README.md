@@ -79,7 +79,7 @@
 👤 **Author2**
 
 - GitHub: [@Ameer2000Mzori](https://github.com/Ameer2000Mzori)
-- LinkedIn: [Ameer Ameen](https://www.linkedin.com/in/ameer-ameen-82314425b/)
+- LinkedIn: [Ameer Ameen](https://www.linkedin.com/in/mohammed-ameen-82314425b/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
